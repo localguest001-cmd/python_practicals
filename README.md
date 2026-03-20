@@ -1,2 +1,2 @@
 # python_practicals
-Sem-4 python lab manual
+Topaooo Jate code lakhoooooooo!!!!!!!!!!!
