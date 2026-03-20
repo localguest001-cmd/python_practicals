@@ -1,0 +1,18 @@
+# Pandas operations on Series
+
+import pandas as pd
+
+series1 = pd.Series([1, 2, 3, 4, 5])
+series2 = pd.Series([6, 7, 8, 9, 10])
+
+print("Addition:")
+print(series1 + series2)
+
+print("Subtraction:")
+print(series1 - series2)
+
+print("Multiplication:")
+print(series1 * series2)
+
+print("Division:")
+print(series1 / series2)
